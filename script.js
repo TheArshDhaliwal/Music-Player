@@ -2,7 +2,7 @@ console.log("Welcome to BeatBox");
 
 // Initializing the variables
 let songIndex = 0;
-let audioElement = new Audio('../Media/GangstaType.mp3');
+let audioElement = new Audio('Media/GangstaType.mp3');
 let masterPlay = document.getElementById('masterPlay');
 let myProgressBar = document.getElementById('myProgressBar');
 let gif = document.getElementById('musicgif');
