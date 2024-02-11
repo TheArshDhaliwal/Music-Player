@@ -1,4 +1,4 @@
-console.log("Welcome to Spotify");
+console.log("Welcome to BeatBox");
 
 // Initializing the variables
 let songIndex = 0;
