@@ -64,7 +64,7 @@ nav ul li a:hover{
     margin: 90px auto;
     border-radius: 15px;
     padding: 35px;
-    background-image: url('../Media/musicbg.png');
+    background-image: url('Media/musicbg.png');
     background-size: cover;
 }
 
